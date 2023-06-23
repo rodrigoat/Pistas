@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PistasProvider", "PistasProvider\PistasProvider.csproj", "{585448AD-6F6B-4409-878C-113520505CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pistas", "PistasApp\Pistas\Pistas.csproj", "{0AC0BF99-A72C-4912-B2C9-164DEE15AD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585448AD-6F6B-4409-878C-113520505CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585448AD-6F6B-4409-878C-113520505CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585448AD-6F6B-4409-878C-113520505CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585448AD-6F6B-4409-878C-113520505CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC0BF99-A72C-4912-B2C9-164DEE15AD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC0BF99-A72C-4912-B2C9-164DEE15AD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC0BF99-A72C-4912-B2C9-164DEE15AD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC0BF99-A72C-4912-B2C9-164DEE15AD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6D9B73-8705-474B-BF1C-AAC56FC9F8EB}
+	EndGlobalSection
+EndGlobal
